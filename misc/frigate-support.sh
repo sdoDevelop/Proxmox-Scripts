@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-# Copyright (c) 2021-2024 tteck
-# Author: tteck (tteckster)
+# Copyright (c) 2021-2024 sdoDevelop
+# Author: sdoDevelop (sdoDevelopster)
 # License: MIT
-# https://github.com/tteck/Proxmox/raw/main/LICENSE
+# https://github.com/sdoDevelop/Proxmox/raw/main/LICENSE
 
 function header_info {
     clear
@@ -89,5 +89,5 @@ EOF
 echo -e "\e[1;33m \nFinished....Reboot ${CTID} LXC to apply the changes.\n \e[0m"
 
 # In the Proxmox web shell run
-# bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/misc/frigate-support.sh)"
+# bash -c "$(wget -qLO - https://github.com/sdoDevelop/Proxmox/raw/main/misc/frigate-support.sh)"
 # Reboot the LXC to apply the changes

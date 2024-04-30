@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-# Copyright (c) 2021-2024 tteck
-# Author: tteck (tteckster)
+# Copyright (c) 2021-2024 sdoDevelop
+# Author: sdoDevelop (sdoDevelopster)
 # License: MIT
-# https://github.com/tteck/Proxmox/raw/main/LICENSE
+# https://github.com/sdoDevelop/Proxmox/raw/main/LICENSE
 
 # Use to copy all data from one Plex Media Server LXC to another
 # run from the Proxmox Shell
@@ -125,4 +125,4 @@ info "Successfully Transferred Data."
 
 # Use to copy all data from one Plex Media Server LXC to another
 # run from the Proxmox Shell
-# bash -c "$(wget -qLO - https://raw.githubusercontent.com/tteck/Proxmox/main/misc/copy-data/plex-copy-data-plex.sh)"
+# bash -c "$(wget -qLO - https://raw.githubusercontent.com/sdoDevelop/Proxmox/main/misc/copy-data/plex-copy-data-plex.sh)"

@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
-# Copyright (c) 2021-2024 tteck
-# Author: tteck (tteckster)
+# Copyright (c) 2021-2024 sdoDevelop
+# Author: sdoDevelop (sdoDevelopster)
 # License: MIT
-# https://github.com/tteck/Proxmox/raw/main/LICENSE
+# https://github.com/sdoDevelop/Proxmox/raw/main/LICENSE
 
-# bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/misc/edge-kernel.sh)"
+# bash -c "$(wget -qLO - https://github.com/sdoDevelop/Proxmox/raw/main/misc/edge-kernel.sh)"
 function header_info {
 cat <<"EOF"
     ____ _    ________   ______    __              __ __                     __    
